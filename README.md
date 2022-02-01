@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JANA-AKHAN from the Implentation Team 
+- 👋 Hi, I’m @JANA-akhan from the Implentation Team 
 
 
 <!---
